@@ -8,4 +8,4 @@ When signing up, use:
 
 Haven't worked on any user feedback yet, so please take a look at the console if you are stuck.
 
-Website can be accessed here: https://main.d1ktyqvfrgp8sr.amplifyapp.com/
+Website can be accessed here: https://main.d1ktyqvfrgp8sr.amplifyapp.com/ (now disabled to avoid future charges)
